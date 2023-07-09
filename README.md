@@ -3,9 +3,9 @@
 By making some small edits to JSON files it's possible to combine cores created for openFPGA/Analogue Pocket, grouping arcade games together and reducing the number of platforms in your menus. Here I'm providing ready-made core combinations as a convenience for other Pocket users. For instructions on how to do this yourself, [I wrote a short tutorial](https://github.com/espiox/openfpga-combo-cores/blob/main/Combining-Cores.md).
 
 Important notes:
-- **Please support original core developers where possible,** they do great work making these cores, all I did is shuffle some files around a bit.
+- No ROM files are included.
+- Please support original core developers where possible, they do great work making these cores, all I did is shuffle some files around a bit.
 - **Please do not report issues with these multi-cores to original core devs.** If there's an issue with the multi-core, please test the issue with the original core and [create an issue here](https://github.com/espiox/openfpga-combo-cores/issues) if it's specific to the multi-core.
-- **No ROM files are included.**
 
 This repo contains the following multi-cores:
 
