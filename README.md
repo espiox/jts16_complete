@@ -14,7 +14,7 @@ This repo contains the following multi-cores:
 - Double Dragon
 - Double Dragon 2
 
-**Konami (Contra) (Cores by [Jotego](https://www.patreon.com/jotego))**
+**Konami (Contra-based) (Cores by [Jotego](https://www.patreon.com/jotego))**
 - Combat School
 - Contra
 - Haunted Castle
