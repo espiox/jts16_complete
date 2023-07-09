@@ -67,4 +67,3 @@ Once you've done this for every game, move all the files over to the correct Ass
 ## Notes
 - This only works if the audio.json, data.json, and video.json files are the same for each core being combined. There's currently no way that I'm aware of to specify these differently for each .rbf_r file.
 - If input.json and interact.json are different per-core, you'll need to set up files per-game in the Presets folder, matching the filename of the game in Assets (check the Raizing multi-core for an example of this).
-
