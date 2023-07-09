@@ -40,7 +40,7 @@ This repo contains the following combo cores:
 - Sorcer Striker
 
 
-# Beta Cores
+## Beta Cores
 The following core is in patron-only beta, and therefore only the modified JSON files are included here. **You must be a Jotego patron and provide your own .rbf_r files to use this until it is publicly available.** Simply get the jts16.rbf_r and jts16b.rbf_r files from the beta zips and place them in Cores/jotego.jts16_c
 
 **SEGA System 16 (Cores by [Jotego](https://www.patreon.com/jotego))**
