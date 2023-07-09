@@ -6,6 +6,7 @@ Important notes:
 - No ROM files are included.
 - Please support original core developers where possible, they do great work making these cores, all I did is shuffle some files around a bit.
 - **Please do not report issues with these multi-cores to original core devs.** If there's an issue with the multi-core, please test the issue with the original core and [create an issue here](https://github.com/espiox/openfpga-combo-cores/issues) if it's specific to the multi-core.
+- Most platform images used here are created by [Dyreschlock](https://github.com/dyreschlock/pocket-platform-images), check out his repo for more super useful Platform info/image files!
 
 This repo contains the following multi-cores:
 
