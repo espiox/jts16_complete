@@ -59,8 +59,6 @@ To this, making sure that the ID number matches the core it needs:
 			"select": true
 		},
 
-(You don't need to do this for games for your "base" core - if a core isn't specified, it will default to whichever core is id "0".)
-
 Once you've done this for every game, move all the files over to the correct Assets folder for your multi-core. You also need to combine each core's Presets folders, making sure that the folders under Input and Interact match the layout of your folders in Assets.
 
 
