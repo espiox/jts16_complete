@@ -15,15 +15,16 @@ This repo contains the following multi-cores:
 - Double Dragon 2
 
 **Konami (Contra) (Cores by [Jotego](https://www.patreon.com/jotego))**
-- Contra
 - Combat School
+- Contra
 - Haunted Castle
 
 **Konami (6809-based) (Cores by [Jotego](https://www.patreon.com/jotego))**
+- Hyper Sports
 - Kicker
 - Mikie
 - Road Fighter
-- Roc 'n' Rope
+- Roc'n Rope
 - Super Basketball
 - Track & Field
 - Yie-Ar Kung Fu
@@ -32,6 +33,7 @@ This repo contains the following multi-cores:
 - Dig Dug
 - Galaga
 - Xevious
+- Super Xevious
 
 **Raizing (Cores by [pram0d](https://github.com/psomashekar/pram0d-pocket-dist-public))**
 - Armed Police Batrider
