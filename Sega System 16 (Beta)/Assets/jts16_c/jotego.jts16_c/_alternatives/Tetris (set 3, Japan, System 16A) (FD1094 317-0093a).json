@@ -1,9 +1,9 @@
 {
 	"instance":{
 		"magic": "APF_VER_1",
-		"variant_select": {
+		"core_select": {
 			"id": 0,
-			"select": false
+			"select": true
 		},
 		"data_path": "",
 		"data_slots": [

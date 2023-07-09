@@ -1,6 +1,6 @@
 # openFPGA/Analogue Pocket Multi-Cores
 
-By making some small edits to JSON files it's possible to combine cores created for openFPGA/Analogue Pocket, grouping arcade games together and reducing the number of platforms in your menus. Here I'm providing ready-made core combinations as a convenience for other Pocket users. For instructions on how to do this yourself, [I wrote a short tutorial](https://github.com/espiox/openfpga-combo-cores/blob/main/Combining-Cores.md).
+By making some small edits to .json files it's possible to combine cores created for openFPGA/Analogue Pocket, grouping arcade games together and reducing the number of platforms in your menus. Here I'm providing ready-made core combinations as a convenience for other Pocket users. For instructions on how to do this yourself, [I wrote a short tutorial](https://github.com/espiox/openfpga-combo-cores/blob/main/Combining-Cores.md).
 
 Important notes:
 - No ROM files are included.
@@ -44,7 +44,7 @@ This repo contains the following multi-cores:
 
 
 ## Beta Cores
-The following core is in patron-only beta, and therefore only the folders and JSON files are included here. **You must be a Jotego patron and provide your own .rbf_r files to use this until it is publicly available.** Simply get the jts16.rbf_r and jts16b.rbf_r files from the beta zips and place them in Cores/jotego.jts16_c.
+The following core is in patron-only beta, and therefore only the folders and .json files are included here. **You must be a Jotego patron and provide your own .rbf_r files to use this until it is publicly available.** Simply get the jts16.rbf_r and jts16b.rbf_r files from the beta zips and place them in Cores/jotego.jts16_c.
 
 **SEGA System 16 (Cores by [Jotego](https://www.patreon.com/jotego))**
 - System 16A

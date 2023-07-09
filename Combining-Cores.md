@@ -43,16 +43,18 @@ Finally, make sure you have a platform info file and image with the new ID/short
 - Platforms\jts16_c.json
 - Platforms\\_images\jts16_c.bin
 
+(You can also edit the "category" value in your [platform].json if you'd like it to be sorted under a different category in the openFPGA menu on Pocket.)
+
 
 ## Instance Files
-Next, open up each instance (game) json file for the your secondary core(s) in Assets\jts16b\jotego.jts16b (for example) and change this section:
+Next, open up the .json file for each game in Assets\jts16b\jotego.jts16b (for example) and change this section:
 
 		"variant_select": {
 			"id": 0,
 			"select": false
 		},
 
-To this, making sure that the ID number matches the core it needs:
+To this, making sure that the ID number matches the core it needs, as listed in core.json:
 
   		"core_select": {
 			"id": 1,
