@@ -23,14 +23,14 @@ Open up the core.json file and add the new .rbf_r files to the "cores" section, 
 
 
 ## Platform ID
-To differentiate from original cores, I tend to give mine a unique platform ID/shortname - usually adding "_c" to the end of the original. You'll need to change that in the core.json file:
+To differentiate from original cores, you should give your core a unique platform ID/shortname. I tend to just add "_c" to the end of the original, but you can make this anything you like. You'll need to change it in the core.json file:
 
    			"platform_ids": [
 				"jts16_c"
 			],
 			"shortname": "jts16_c",
 
-You'll also need to update the platform ID/shortname in all places it appears, including folder names in Assets, Cores, and Presets:
+You'll also need to update the platform ID/shortname in all the folder names where it appears:
 
 - Assets\jts16_c\jotego.jts16_c
 - Cores\jotego.jts16_c
@@ -38,7 +38,7 @@ You'll also need to update the platform ID/shortname in all places it appears, i
 - Presets\Input\jts16_c\jotego.jts16_c
 - Presets\Interact\jts16_c\jotego.jts16_c
 
-You should also make sure you have a platform info file and image with the new ID/shortname:
+Finally, make sure you have a platform info file and image with the new ID/shortname:
 
 - Platforms\jts16_c.json
 - Platforms\\_images\jts16_c.bin
