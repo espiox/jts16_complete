@@ -1,0 +1,44 @@
+{
+    "core": {
+        "magic": "APF_VER_1",
+        "metadata": {
+            "platform_ids": ["raizing_c"],
+            "shortname": "raizing_c",
+            "description": "Combined openFPGA core for Raizing games on Toaplan V2 arcade hardware",
+            "author": "pram0d",
+            "url": "https://pram0d.com",
+            "version": "0.0.1",
+            "date_release": "2022-09-23"
+        },
+        "framework": {
+            "target_product": "Analogue Pocket",
+            "version_required": "1.1",
+            "sleep_supported": false,
+            "dock": {
+                "supported": true,
+                "analog_output": false
+            },
+            "hardware": {
+                "link_port": false,
+                "cartridge_adapter": -1
+            }
+        },
+        "cores": [
+            {
+                "name": "garegga",
+                "id": 0,
+                "filename": "GAREGGA.rbf_r"
+            },
+            {
+                "name": "bakraid",
+                "id": 1,
+                "filename": "BAKRAID.rbf_r"
+            },
+            {
+                "name": "batrider",
+                "id": 2,
+                "filename": "BATRIDER.rbf_r"
+            }
+        ]
+    }
+}

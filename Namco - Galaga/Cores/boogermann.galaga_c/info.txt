@@ -1,0 +1,10 @@
+Combination openFPGA core for Namco Galaga hardware, combining the Galaga, Dig Dug and Xevious cores.
+
+Note: You must provide your own roms to use this core.
+
+Analogue Pocket ports by Marcus Andrade (Boogermann). Original FPGA implementations are the work of Dar (Galaga/Xevious), MiSTer-X (Dig Dug). 
+
+Galaga/Dig Dug/Xevious/Super Xevious © 1981-1984 NAMCO LTD. All rights reserved. GALAGA, Dig Dug, Xevious are trademarks of BANDAI NAMCO ENTERTAINMENT INC. All other trademarks, logos, and copyrights are property of their respective owners. The authors and contributors or any of its maintainers are in no way associated with or endorsed by Bandai Namco Entertainment Inc.
+
+
+
