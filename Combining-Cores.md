@@ -4,7 +4,7 @@ Before doing this, you should be familiar with the folder layout of the Analogue
 
 
 ## Combine Core Files
-First, decide which core will be your "base." Then, please the .rbf_r files from the other cores into that core's folder in Cores, making sure each one has a unique filename.
+First, decide which core will be your "base." Then, place the .rbf_r files from the other cores into that core's folder in Cores, making sure each one has a unique filename.
 
 Open up the core.json file and add the new .rbf_r files to the "cores" section, giving each one a unique name and ID number.
 
