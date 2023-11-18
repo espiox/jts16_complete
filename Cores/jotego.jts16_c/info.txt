@@ -1,0 +1,5 @@
+This is a custom core combining Jotego's SEGA System 16A and 16B cores. All original core development is by JT - if you enjoy these games, I highly recommend you support his Patreon to support the ongoing work he and his team do. I'm not associated with Jotego, aside from being a Patreon supporter. 
+
+Please do not report issues with this complete core to Jotego! If there's an issue, please test the issue with the original cores first.
+
+Thanks to Dyreschlock for the great platform art! Check out his Github page - he's made lots of great custom art you can use for other cores too.

@@ -9,7 +9,7 @@ This is a custom core combining [Jotego](https://www.patreon.com/jotego)'s SEGA 
 - No ROM files are included.
 - I'm not associated with Jotego, aside from being a Patreon supporter.
 - **Please do not report issues with this complete core to Jotego.** If there's an issue, please test the issue with the original cores first. If it's specific to the complete core, [create an issue here](https://github.com/espiox/openfpga-combo-cores/issues).
-- [Dyreschlock](https://github.com/dyreschlock/pocket-platform-images) made some great custom art you can use for this complete core. Check out his repo for Platform info/image files for other cores too!
+- Thanks to [Dyreschlock](https://github.com/dyreschlock/pocket-platform-images) for the great custom platform art! Check out his Github page for image files for other cores too!
 
 
 ## How to Combine Cores
