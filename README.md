@@ -1,51 +1,16 @@
-# openFPGA/Analogue Pocket Multi-Cores
+# SEGA System 16 Complete Core for Analogue Pocket/openFPGA
 
-By making some small edits to .json files it's possible to combine cores created for openFPGA/Analogue Pocket, grouping arcade games together and reducing the number of platforms in your menus. Here I'm providing ready-made core combinations as a convenience for other Pocket users. For instructions on how to do this yourself, [I wrote a short tutorial](https://github.com/espiox/openfpga-combo-cores/blob/main/Combining-Cores.md).
+**Last update: 17th November 2023**
 
-Important notes:
+This is a custom core combining [Jotego](https://www.patreon.com/jotego)'s SEGA System 16A and 16B cores, allowing all S16 games to be played from one entry in your Pocket menu without having to remember which games work on which hardware. All original core development is by JT - if you enjoy these games, I highly recommend you support his Patreon to support the ongoing work he and his team do.
+
+
+## Important Info
 - No ROM files are included.
-- Please support original core developers where possible, they do great work making these cores, all I did is shuffle some files around a bit.
-- **Please do not report issues with these multi-cores to original core devs.** If there's an issue with the multi-core, please test the issue with the original core and [create an issue here](https://github.com/espiox/openfpga-combo-cores/issues) if it's specific to the multi-core.
-- Most platform images used here are created by [Dyreschlock](https://github.com/dyreschlock/pocket-platform-images), check out his repo for more super useful Platform info/image files!
-
-This repo contains the following multi-cores:
-
-**Double Dragon (Cores by [Jotego](https://www.patreon.com/jotego))**
-- Double Dragon
-- Double Dragon 2
-
-**Konami (Contra-based) (Cores by [Jotego](https://www.patreon.com/jotego))**
-- Combat School
-- Contra
-- Haunted Castle
-
-**Konami (6809-based) (Cores by [Jotego](https://www.patreon.com/jotego))**
-- Hyper Sports
-- Kicker
-- Mikie
-- Road Fighter
-- Roc'n Rope
-- Super Basketball
-- Track & Field
-- Yie-Ar Kung Fu
-
-**Namco (Galaga) (Cores by [Boogermann](https://github.com/boogermann/))**
-- Dig Dug
-- Galaga
-- Xevious
-- Super Xevious
-
-**Raizing (Cores by [pram0d](https://github.com/psomashekar/pram0d-pocket-dist-public))**
-- Armed Police Batrider
-- Battle Bakraid
-- Battle Garegga
-- Kingdom Grandprix
-- Sorcer Striker
+- I'm not associated with Jotego, aside from being a Patreon supporter.
+- **Please do not report issues with this complete core to Jotego.** If there's an issue, please test the issue with the original cores first. If it's specific to the complete core, [create an issue here](https://github.com/espiox/openfpga-combo-cores/issues).
+- [Dyreschlock](https://github.com/dyreschlock/pocket-platform-images) made some great custom art you can use for this complete core. Check out his repo for Platform info/image files for other cores too!
 
 
-## Beta Cores
-The following core is in patron-only beta, and therefore only the folders and .json files are included here. **You must be a Jotego patron and provide your own .rbf_r files to use this until it is publicly available.** Simply get the jts16.rbf_r and jts16b.rbf_r files from the beta zips and place them in Cores/jotego.jts16_c.
-
-**SEGA System 16 (Cores by [Jotego](https://www.patreon.com/jotego))**
-- System 16A
-- System 16B
+## How to Combine Cores
+By making some edits to .json files it's possible to combine cores created for openFPGA/Analogue Pocket, grouping arcade games together and reducing the number of platforms in your menus. For instructions on how to do this yourself, [I wrote a short tutorial](https://github.com/espiox/openfpga-combo-cores/blob/main/Combining-Cores.md).
