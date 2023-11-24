@@ -1,7 +1,5 @@
 # SEGA System 16 Complete Core for Analogue Pocket/openFPGA
 
-**Last update: 17th November 2023**
-
 This is a custom core combining [Jotego](https://www.patreon.com/jotego)'s SEGA System 16A and 16B cores, allowing all S16 games to be played from one entry in your Pocket menu without having to remember which games work on which hardware. All original core development is by JT - if you enjoy these games, I highly recommend you support his Patreon to support the ongoing work he and his team do.
 
 
