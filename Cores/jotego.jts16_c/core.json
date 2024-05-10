@@ -6,11 +6,11 @@
 				"jts16_c"
 			],
 			"shortname": "jts16_c",
-			"description": "Arcade hardware",
+			"description": "Arcade",
 			"author": "jotego",
 			"url": "https://patreon.com/jotego",
-			"version": "bff2520",
-			"date_release": "2024-05-03"
+			"version": "f3c1149",
+			"date_release": "2024-05-10"
 		},
 		"framework": {
 			"target_product": "Analogue Pocket",
