@@ -13,4 +13,4 @@ This is a custom core combining [Jotego](https://www.patreon.com/jotego)'s SEGA 
 
 
 ## How to Combine Cores
-By making some edits to .json files it's possible to combine cores created for openFPGA/Analogue Pocket, grouping arcade games together and reducing the number of platforms in your menus. For instructions on how to do this yourself, [I wrote a short tutorial](https://github.com/espiox/openfpga-combo-cores/blob/main/Combining-Cores.md).
+By making some edits to .json files it's possible to combine cores created for openFPGA/Analogue Pocket, grouping arcade games together and reducing the number of platforms in your menus. For instructions on how to do this yourself, [I wrote a short tutorial](https://espiox.net/combining-cores/).
