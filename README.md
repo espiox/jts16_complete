@@ -14,10 +14,10 @@ This is a custom core combining [Jotego](https://www.patreon.com/jotego)'s SEGA 
 - Bay Route
 - Body Slam
 - Bullet
-- Cotton
+- Cotton: Fantastic Night Dreams
+- Cyber Police ESWAT
 - Dunk Shot
 - Dynamite Dux
-- E-Swat: Cyber Police
 - Excite League
 - Fantasy Zone
 - Fantasy Zone II: The Tears of Opa-Opa
